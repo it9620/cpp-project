@@ -1,2 +1,3 @@
 # cpp-project
-Template of cpp project.
+
+Template cpp project.
