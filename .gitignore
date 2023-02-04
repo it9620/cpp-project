@@ -7,6 +7,7 @@ transport-catalogue/tests/old_tests
 output.json
 build
 *.code-workspace
+*.log
 tsC_case1_input.txt
 tsC_case1_output1.txt
 tsC_case1_MyOutput.txt
