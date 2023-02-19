@@ -1,6 +1,20 @@
 {
+    // Configuration for runnin on windows:
+    /*
+    "cmake.mingwSearchDirs": [
+        "C:\\mingw-w64\\mingw64\\bin"
+    ],
+    "cmake.generator": "MinGW Makefiles",
+    */
+
+    // Don't remember for what next configuration string is needed:
+    // "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+
+    // Common configuration:
     "editor.rulers": [
         100
     ],
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "cmake.sourceDirectory": "${workspaceFolder}"
+
 }
